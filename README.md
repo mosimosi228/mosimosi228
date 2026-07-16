@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋 I'm Mosi
+# Hi 👋 I'm Vladimir\(mosimosi\)
 
 ### Senior Backend Engineer • Golang • Distributed Systems
 
